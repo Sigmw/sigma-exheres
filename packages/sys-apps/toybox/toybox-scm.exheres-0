@@ -1,0 +1,7 @@
+SUMMARY="All-in-one Linux command line."
+HOMEPAGE="http://landley.net/toybox/"
+
+PLATFORMS='~amd64'
+LICENSES="BSD 2"
+
+require github [ user=landley ]
